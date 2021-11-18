@@ -1,4 +1,4 @@
-# landing-page-atwo
+# landing-page-max-cs
 
-[Go Live ](https://surjkhanal.github.io/landing-page-atwo/)
+[Go Live ](https://surjkhanal.github.io/landing-page-max-cs/)
 
